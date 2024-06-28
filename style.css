@@ -22,7 +22,7 @@ html{
 	background-image: url("k1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	animation: slide 18s infinite;
+	animation: slide 16s infinite;
 }
 
 @keyframes slide{
