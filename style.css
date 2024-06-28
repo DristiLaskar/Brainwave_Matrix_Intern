@@ -24,7 +24,7 @@ html{
 	background-repeat: no-repeat;
 	
 	
-	animation: slide 11s infinite;
+	animation: slide 15s infinite;
 }
 
 @keyframes slide{
