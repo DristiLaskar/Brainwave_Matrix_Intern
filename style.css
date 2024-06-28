@@ -16,7 +16,7 @@ html{
 	justify-content: space-between;
 	align-items: center;
 	display: flex;
-	min-height: 110vh;
+	min-height: 100vh;
 	transition: .1s;
 	padding: 10rem;
 	background-image: url("k1.jpg");
