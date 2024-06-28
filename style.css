@@ -16,13 +16,13 @@ html{
 	justify-content: space-between;
 	align-items: center;
 	display: flex;
-	min-height: 100vh;
+	min-height: 110vh;
 	transition: .1s;
 	padding: 10rem;
 	background-image: url("k1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	animation: slide 16s infinite;
+	animation: slide 17s infinite;
 }
 
 @keyframes slide{
@@ -58,7 +58,7 @@ html{
 		
 		
 	}
-	86%{
+	90%{
 		background-image: url("gl.jpg");
 		
 	}
@@ -76,7 +76,7 @@ header{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-    backdrop-filter: blur(1.7px);
+    backdrop-filter: blur(1.4px);
 }
 
 
